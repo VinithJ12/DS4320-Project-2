@@ -1,3 +1,13 @@
+| Field           | Type   | Description       |
+| --------------- | ------ | ----------------- |
+| aqi             | int    | Air Quality Index |
+| date_local      | string | Date (YYYY-MM-DD) |
+| parameter       | string | Pollutant type    |
+| arithmetic_mean | float  | Daily average     |
+| first_max_value | float  | Peak reading      |
+| zip_code        | string | ZIP code          |
+| median_income   | int    | Income (USD)      |
+| moe             | int    | Margin of error   |
 DS 4320 Project 2
 Breathing Inequality — Houston Air Quality vs. Neighborhood Income
 
