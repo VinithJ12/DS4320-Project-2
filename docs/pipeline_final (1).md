@@ -68,7 +68,7 @@ INCOME_COLORS = ['#d62728', '#ff7f0e', '#bcbd22', '#2ca02c']
 
 ```python
 # MongoDB Connection
-MONGO_URI = "mongodb+srv://jvinith2_db_user:PASSWORD@cluster0.yyvifrz.mongodb.net/"
+MONGO_URI = "mongodb+srv://USER:PASSWORD@cluster0.yyvifrz.mongodb.net/"
 
 try:
     client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=10_000)
