@@ -34,7 +34,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration 
 # Replace PASSWORD with your MongoDB Atlas password before running
-MONGO_URI = "mongodb+srv://jvinith2_db_user:PASSWORD@cluster0.yyvifrz.mongodb.net/"
+MONGO_URI = "mongodb+srv://USER:PASSWORD@cluster0.yyvifrz.mongodb.net/"
 
 # Census API key — register free at https://api.census.gov/data/key_signup.html
 CENSUS_KEY = "YOUR_CENSUS_KEY"
