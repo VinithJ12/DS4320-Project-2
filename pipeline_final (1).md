@@ -319,7 +319,7 @@ This supports the environmental justice hypothesis.
 
 **Visualization rationale:** A 3-panel figure (one per pollutant) reveals the different income-pollution relationships that a single combined chart would hide. Point sizes encode data confidence (number of readings). The asterisk (*) marks statistically significant correlations (p < 0.05). ZIP codes are labeled so readers can verify findings against known geography.
 
-![Houston AQI vs Income by Pollutant](../docs/houston_aqi_by_pollutant.png)
+![Houston AQI vs Income by Pollutant](docs/houston_aqi_by_pollutant.png)
 
 *Figure: Three-panel scatter plot showing mean ZIP-level AQI vs. median household income for PM2.5 (Panel A), Ozone (Panel B), and NO2 (Panel C). Each point is one Harris County ZIP code; point size is proportional to number of AQI readings. Dashed line = linear regression fit; r = Pearson correlation coefficient; * = p < 0.05.*
 
