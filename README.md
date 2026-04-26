@@ -2,7 +2,7 @@
 
 **Name:** Vinith J  
 **NetID:** uhe5bj                                                  
-**DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) ← *replace with your Zenodo DOI after publishing*  
+**DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.zenodo.19800803) ← *replace with your Zenodo DOI after publishing*  
 **Press Release:** [docs/press_release.md](docs/press_release.md)  
 **Pipeline:** [pipeline/pipeline.ipynb](pipeline/pipeline.ipynb)  
 **License:** MIT — see [LICENSE](LICENSE)                                                            
