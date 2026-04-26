@@ -5,7 +5,7 @@
 **DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) ← *replace with your Zenodo DOI after publishing*  
 **Press Release:** [docs/press_release.md](docs/press_release.md)  
 **Pipeline:** [pipeline/pipeline.ipynb](pipeline/pipeline.ipynb)  
-**License:** MIT — see [LICENSE](LICENSE)
+**License:** MIT — see [LICENSE](LICENSE)                                                            
 **COLAB OPTION** [COLAB_PIPELINE](https://colab.research.google.com/drive/16-y6oy4X8Zk9pa6OEwGadpMC-sSwXQss?usp=sharing)
 
 ---
