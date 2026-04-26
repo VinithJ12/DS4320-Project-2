@@ -36,7 +36,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration 
 # Replace PASSWORD with your MongoDB Atlas password before running
-MONGO_URI = "mongodb+srv://jvinith2_db_user:PASSWORD@cluster0.yyvifrz.mongodb.net/"
+MONGO_URI = "mongodb+srv://USER:PASSWORD@cluster0.yyvifrz.mongodb.net/"
 
 # EPA AQS credentials — register free at https://aqs.epa.gov/data/api/signup
 EPA_EMAIL = "YOU_EPA_EMAIL"
