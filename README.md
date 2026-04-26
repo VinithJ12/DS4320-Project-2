@@ -1,11 +1,12 @@
 # DS 4320 Project 2: Breathing Inequality — Houston Air Quality vs. Neighborhood Income
 
 **Name:** Vinith J  
-**NetID:** uhe5bj 
+**NetID:** uhe5bj                                                  
 **DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) ← *replace with your Zenodo DOI after publishing*  
 **Press Release:** [docs/press_release.md](docs/press_release.md)  
 **Pipeline:** [pipeline/pipeline.ipynb](pipeline/pipeline.ipynb)  
 **License:** MIT — see [LICENSE](LICENSE)
+**COLAB OPTION** [COLAB_PIPELINE](https://colab.research.google.com/drive/16-y6oy4X8Zk9pa6OEwGadpMC-sSwXQss?usp=sharing)
 
 ---
 
